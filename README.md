@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincNx&layout=compact&theme=dracula&show_icons=true&langs_count=6" height="150"/>
 </p>
 
-<h1 align="left"> <img src="https://imgur.com/2NEYGqZ.png" height="35">  Languages/Technologies </h1>
+<h1 align="left"> <img src="https://imgur.com/2NEYGqZ.png"  width="30" height="35">  Languages/Technologies </h1>
 
 <div align= "left">
   
