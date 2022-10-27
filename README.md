@@ -6,7 +6,7 @@
   <!---
  <img src="https://imgur.com/xmFx2Ft.png" width="107" height="150" /> /
 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincNx&layout=compact&theme=swift&show_icons=true&langs_count=6" height="150" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincNx&layout=compact&theme=swift&show_icons=true&langs_count=6" height="150" align=""/>
 </div>
 
 <br>
