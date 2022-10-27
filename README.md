@@ -1,5 +1,5 @@
 
-<h2 align="left" > <img src="https://imgur.com/dDo4qbV.png" height="35">  My Drill is my Soul   </h1>
+<h1 align="left" > <img src="https://imgur.com/dDo4qbV.png" height="35">  My Drill is my Soul   </h1>
 
 
 
@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincNx&layout=compact&theme=dracula&show_icons=true&langs_count=6" height="150"/>
 </p>
 
-<h2 align="left"> <img src="https://imgur.com/2NEYGqZ.png" height="35">  Languages/Technologies </h1>
+<h1 align="left"> <img src="https://imgur.com/2NEYGqZ.png" height="35">  Languages/Technologies </h1>
 
 <div align= "left">
   
