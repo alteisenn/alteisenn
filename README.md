@@ -3,7 +3,7 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=lincNx&theme=dracula&show_icons=true&count_private=true" height="150"  align= "left"/>
-<img src="https://imgur.com/xmFx2Ft.png" width="111" height="150" />
+<img src="https://imgur.com/xmFx2Ft.png" width="110" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincNx&layout=compact&theme=dracula&show_icons=true&langs_count=6" height="150" align="right"/>
 </div>
 <br>
