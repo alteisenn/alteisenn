@@ -25,3 +25,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  
 </div>
+
+<h1 align="left"> <img src="https://imgur.com/X16JsK5.png"  width="29" height="29">  About Me </h1>
+n_
