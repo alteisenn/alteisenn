@@ -22,7 +22,7 @@
 
 <div align= "left">
   
-<h1 align="left"> <img src="https://imgur.com/2NEYGqZ.png"  width="30" height="35">  Languages/Technologies</h1>
+<h1 align="left"> <img src="https://imgur.com/2NEYGqZ.png"  width="31" height="38">  Languages/Technologies</h1>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
