@@ -1,19 +1,20 @@
-
 <p align="center">
-  <a href="" rel="noopener">
- <img width=700px height=200px src="https://imgur.com/taJ2PHd.png" alt="Header"></a>
+
+<img width=700px height=200px src="https://imgur.com/NscPrZl.png" alt="Header">
+
 </p>
 
-  <div align="center">
 
 <h1 align="left" > <img src="https://imgur.com/dDo4qbV.png" height="35">  My Drill is my Soul   </h1>
 
 <div>
+  
 <img src="https://github-readme-stats.vercel.app/api?username=lincNx&theme=swift&show_icons=true&count_private=true" height="150"  align= "left"/>
   <!---
  <img src="https://imgur.com/xmFx2Ft.png" width="107" height="150" /> /
 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincNx&layout=compact&theme=swift&show_icons=true&langs_count=6" height="150" align=""/>
+  
 </div>
 
 <br>
@@ -34,4 +35,4 @@
 </div>
 
 <h1 align="left"> <img src="https://imgur.com/58RWVvv.png"  width="45" height="40">  About Me </h1>
-n_
+HOlaaa
