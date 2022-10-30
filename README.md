@@ -18,7 +18,6 @@
 <img src="https://imgur.com/xmFx2Ft.png" width="107" height="150" />
 </div>
 
-<br>
 
 <h1 align="left"> <img src="https://imgur.com/58RWVvv.png"  width="45" height="40">  About Me </h1>
 
