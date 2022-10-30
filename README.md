@@ -20,6 +20,13 @@
 
 <br>
 
+<h1 align="left"> <img src="https://imgur.com/58RWVvv.png"  width="45" height="40">  About Me </h1>
+
+- 🌍18 Years old living in Argentina
+- 🌱Currently learning Web Development 
+- 📫Reach me `simonn#3455`
+
+
 <div align= "left">
   
 <h1 align="left"> <img src="https://imgur.com/2NEYGqZ.png"  width="31" height="38">  Languages/Technologies</h1>
@@ -35,8 +42,3 @@
  
 </div>
 
-<h1 align="left"> <img src="https://imgur.com/58RWVvv.png"  width="45" height="40">  About Me </h1>
-
-- 🌍18 Years old living in Argentina
-- 🌱Currently learning Web Development 
-- 📫Reach me `simonn#3455`
