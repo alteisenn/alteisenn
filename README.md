@@ -24,7 +24,7 @@
 
 - 🌎18 Years old living in Argentina
 - 🌱Currently learning Web Development 
-- 📫Reach me `simonn#3455`
+- 📫Reach me `simonn#3455` `https://steamcommunity.com/id/cathedralazengann`
 
 
 <div align= "left">
