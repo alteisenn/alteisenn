@@ -22,8 +22,8 @@
 
 <h1 align="left"> <img src="https://imgur.com/58RWVvv.png"  width="45" height="40">  About Me </h1>
 
-- 🌎18 Years old living in Argentina
-- 🌱Currently learning Web Development 
+- 🌎19 Years old living in Argentina
+- 🌱Computer Science Student
 - 📫Reach me `simonn#5836` `https://steamcommunity.com/id/cathedralazengann`
 
 
