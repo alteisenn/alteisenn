@@ -24,7 +24,7 @@
 
 - 🌎19 Years old living in Argentina
 - 🌱Computer Science Student
-- 📫Reach me `simonn#5836` `https://steamcommunity.com/id/cathedralazengann`
+- 📫Reach me `lazengann_` `https://steamcommunity.com/id/cathedralazengann`
 
 
 <div align= "left">
