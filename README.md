@@ -6,7 +6,7 @@
 </p>
 
 -->
-<h1 align="left" > <img src="https://imgur.com/dDo4qbV.png" height="35">  My Drill is my Soul   </h1>
+<h1 align="left" > <img src="https://imgur.com/dDo4qbV.png" height="35"> e_  </h1>
 
 <div>
   
@@ -24,7 +24,7 @@
 
 - 🌎19 Years old living in Argentina
 - 🌱Computer Science Student
-- 📫Reach me `lazengann_` `https://steamcommunity.com/id/cathedralazengann`
+- 📫Reach me `lazengann_` `https://steamcommunity.com/id/bohrerderdenhimmelerschafft/`
 
 
 <div align= "left">
