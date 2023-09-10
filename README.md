@@ -23,7 +23,7 @@
 
 - 🌎19 Years old living in Argentina
 - 🌱Computer Science Student
-- 📫Reach me `lazengann_` `https://steamcommunity.com/id/alteisens/`
+- 📫Reach me `lazengann_` `https://steamcommunity.com/id/alteisenn/`
 
 
 <div align= "left">
