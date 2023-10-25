@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!--- 
+
 </div>
  <h1 align="left" > <img src="https://imgur.com/dDo4qbV.png" height="35"> Stats </h1> 
 
